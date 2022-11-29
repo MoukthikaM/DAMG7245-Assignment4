@@ -1,3 +1,4 @@
+
 # DAMG7245-Assignment4: CITIBIKE MACHINE LEARNING HANDS-ON-LAB WITH SNOWPARK PYTHON
 
 Codelabs document link -> https://codelabs-preview.appspot.com/?file_id=1Zh7N2oGdKIB8jsKvXg9uHMSizSLyIOOpkhSkZRDoExY#2 
@@ -27,3 +28,5 @@ Codelabs document link -> https://codelabs-preview.appspot.com/?file_id=1Zh7N2oG
 	- Created a setup task flow with bulk edit and initial schemas 
 
 	- Created monthly task flow with incremental ingest  
+
+
